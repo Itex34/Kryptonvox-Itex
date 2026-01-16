@@ -13,7 +13,7 @@
 } 
  
 * {
-  font-family: font-family: "Comic Sans MS", "Comic Sans", cursive !important; /* font */
+  font-family: "Comic Sans MS", "Comic Sans", cursive !important; /* font */
   transition: background 0.2s ease;
   text-decoration: none !important;
 }
